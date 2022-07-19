@@ -1,5 +1,6 @@
 <h1>Code-Burger-Shop-Front-End</h1>
 
+<img src="./src/assets/User-Application.gif"  width="600px" alt="Project-Video">
 
 <p>User in the application</p>
 
