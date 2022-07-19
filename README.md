@@ -5,7 +5,7 @@
 
 <p>Login interface</p>
 
-<img src="./src/assets/Interface-register.png"  width="400px" alt="Project-Img">
+<img src="./src/assets/Interface-Register.png"  width="400px" alt="Project-Img">
 
 <p>Register interface</p>
 
