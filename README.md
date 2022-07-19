@@ -1,16 +1,6 @@
 <h1>Code-Burger-Shop-Front-End</h1>
 
 
-<img src="./src/assets/Interface-Login.png"  width="400px" alt="Project-Img">
-
-<p>Login interface</p>
-
-<img src="./src/assets/Interface-Register.png"  width="400px" alt="Project-Img">
-
-<p>Register interface</p>
-
-<img src="./src/assets/User-Application.gif"  width="600px" alt="Project-Video">
-
 <p>User in the application</p>
 
 <img src="./src/assets/Admin-Application.gif"  width="600px" alt="Project-Video">
